@@ -1,27 +1,23 @@
-<div align="center">
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=matheusschreiber&show_icons=true&theme=dracula" alt="Matheus Schreiber's Github Stats"/>
+## Hi 👋 My name is Matheus and i'm a junior developer yet undergraduate.
+
+- 🧑🏻 I'm currently 21 years old
+- 🧑🏻‍💻 Coursing Computing Engeneering at [UFES](https://www.ufes.br/)
+- 🧑🏻‍🏫 Member of [PET](https://pet.inf.ufes.br/) (extension program)
+- 🧑🏻‍🔧 Experience on building websites [here is my portfolio]()
+- 👥 Developing everyday teamwork
+
+## My github stats
+
+<div align="center" style="display:flex; justify-content:space-between">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=matheusschreiber&show_icons=true&theme=dracula" alt="Matheus Schreiber's Github Stats"/>
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusschreiber&langs_count=8&theme=dracula&layout=compact"/>
 </div>
+
+## Technologies that i've already worked with (most of them i still do)
 
 <table style="line-stroke:0px" align="center">
   <tr>
-    <td width=300>
-      <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusschreiber&langs_count=8&theme=dracula"/>
-      <div align="center" style="margin-top:10px">
-        <a href="https://www.linkedin.com/in/matheus-schreiber-49472321a/">
-        <img src="https://img.shields.io/badge/Linkedin-0A66C2?&logo=linkedin&style=flat-square&logoColor=white" target="_blank">
-        </a>
-        <a href="https://www.instagram.com/schreiber_matheus/">
-        <img src="https://img.shields.io/badge/Instagram-FF3882?&logo=instagram&style=flat-square&logoColor=white" target="_blank">
-        </a>
-        <a href="https://mailto:matheusmeier.sch2341@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?&logo=gmail&style=flat-square&logoColor=white" target="_blank">
-        </a>
-        <a href="https://discordapp.com/users/8444">
-        <img src="https://img.shields.io/badge/Discord-404EED?&logo=discord&style=flat-square&logoColor=white" target="_blank">
-        </a>
-      </div>
-    </td>
-    <td width=300>
+    <td>
       <table>
       <tr>
         <td><img align="center" alt="Matheus-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></td>
@@ -39,6 +35,8 @@
         <td><img align="center" alt="Matheus-Jest" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></td>
       </tr>
     </table>
+  </td>
+  <td>
     <table>
       <tr>
         <td><img align="center" alt="Matheus-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></td>
@@ -58,6 +56,8 @@
         <td><img align="center" alt="Matheus-Blender" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /></td>
       </tr>
     </table>
+  </td>
+  <td>
     <table>
       <tr>
         <td><img align="center" alt="Matheus-Vscode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></td>
@@ -80,4 +80,24 @@
         </td>
       </tr>
     </table>
-<br>
+</table>
+
+#
+
+### Reach out to me 🗣
+
+<div>
+  <a href="https://www.linkedin.com/in/matheus-schreiber-49472321a/">
+  <img src="https://img.shields.io/badge/Linkedin-0A66C2?&logo=linkedin&style=flat-square&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/schreiber_matheus/">
+  <img src="https://img.shields.io/badge/Instagram-FF3882?&logo=instagram&style=flat-square&logoColor=white" target="_blank">
+  </a>
+  <a href="https://mailto:matheusmeier.sch2341@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?&logo=gmail&style=flat-square&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discordapp.com/users/8444">
+  <img src="https://img.shields.io/badge/Discord-404EED?&logo=discord&style=flat-square&logoColor=white" target="_blank">
+  </a>
+</div>
+
