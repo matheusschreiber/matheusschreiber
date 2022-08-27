@@ -1,10 +1,10 @@
 <div align="center">
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=matheusschreiber&show_icons=true&theme=dracula" alt="Matheus Schreiber's Github Stats"/>
+  <img width=800 src="https://github-readme-stats.vercel.app/api?username=matheusschreiber&show_icons=true&theme=dracula" alt="Matheus Schreiber's Github Stats"/>
 </div>
 
 <table style="line-stroke:0px" align="center">
   <tr>
-    <td width=300>
+    <td width=500>
       <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusschreiber&langs_count=8&theme=dracula"/>
       <div align="center" style="margin-top:10px">
         <a href="https://www.linkedin.com/in/matheus-schreiber-49472321a/">
