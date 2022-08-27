@@ -3,7 +3,7 @@
 - 🧑🏻 I'm currently 21 years old
 - 🧑🏻‍💻 Coursing Computing Engeneering at [UFES](https://www.ufes.br/)
 - 🧑🏻‍🏫 Member of [PET](https://pet.inf.ufes.br/) (extension program)
-- 🧑🏻‍🔧 Experience on building websites [here is my portfolio]()
+- 🧑🏻‍🔧 Experience on building websites <s>[here is my portfolio]()</s> (under development)
 - 👥 Developing everyday teamwork
 
 ## My github stats
