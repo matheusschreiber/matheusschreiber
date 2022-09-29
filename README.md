@@ -7,10 +7,11 @@
 - 👥 Developing everyday teamwork
 
 ## My github stats
-
-<div align="center" style="display:flex; justify-content:space-between">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=matheusschreiber&show_icons=true&theme=dracula" alt="Matheus Schreiber's Github Stats"/>
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusschreiber&langs_count=8&theme=dracula&layout=compact"/>
+<div align="center">
+  <a href="https://github.com/matheusschreiber">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusschreiber&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=a954d6&icon_color=a954d6&text_color=c9d1d9&bg_color=ffffff00"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusschreiber&layout=compact&langs_count=8&hide_border=true&title_color=a954d6&text_color=a954d6&bg_color=ffffff00" />
+<a/>
 </div>
 
 
