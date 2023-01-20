@@ -1,7 +1,7 @@
 ## Hi 👋 My name is Matheus and i'm a junior developer yet undergraduate.
 
 - 🧑🏻 I'm currently 21 years old
-- 🧑🏻‍💻 Coursing Computing Engineering at [UFES](https://www.ufes.br/)
+- 🧑🏻‍💻 Coursing Computer Engineering at [UFES](https://www.ufes.br/)
 - 🧑🏻‍🏫 Member of [PET](https://pet.inf.ufes.br/) (extension program)
 - 🧑🏻‍🔧 Experience on building websites [here is my portfolio](https://matheus-schreiber.com.br/)
 - 👥 Developing everyday teamwork
