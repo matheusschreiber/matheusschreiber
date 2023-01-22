@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=matheusschreiber.matheusschreiber&left_color=red&right_color=green&left_text=Profile%20views) 
+
 ## Hi 👋 My name is Matheus and i'm a junior developer yet undergraduate.
 
 - 🧑🏻 I'm currently 21 years old
