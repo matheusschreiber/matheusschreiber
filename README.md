@@ -17,7 +17,7 @@
 </div>
 
 
-## Technologies that i've already worked with (most of them i still do)
+## Techs
 
 <table style="line-stroke:0px" align="center">
   <tr>
