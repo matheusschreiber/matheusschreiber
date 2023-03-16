@@ -11,8 +11,8 @@
 ## My github stats
 <div align="center">
   <a href="https://github.com/matheusschreiber">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusschreiber&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusschreiber&layout=compact&langs_count=8&hide_border=true" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusschreiber&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dracula"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusschreiber&layout=compact&langs_count=8&hide_border=true&theme=dracula" />
   </a>
 </div>
 
