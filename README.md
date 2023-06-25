@@ -83,6 +83,18 @@
             </a>
         </td>
       </tr>
+      <tr>
+        <td>
+            <a href="https://github.com/matheusschreiber" target="_blank">
+                <img align="center" alt="Matheus-NestJS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/matheusschreiber" target="_blank">
+                <img align="center" alt="Matheus-Vite" height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" />
+            </a>
+        </td>
+      </tr>
     </table>
   </td>
   <td>
@@ -108,6 +120,13 @@
         <td>
             <a href="../../../?tab=repositories&q=&type=&language=java&sort=" target="_blank">
                 <img align="center" alt="Matheus-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+            </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+            <a href="https://github.com/matheusschreiber" target="_blank">
+                <img align="center" alt="Matheus-CPP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
             </a>
         </td>
       </tr>
@@ -162,9 +181,9 @@
       </tr>
       <tr>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Jupyter" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-            </a>
+          <a href="https://github.com/matheusschreiber" target="_blank">
+              <img align="center" alt="Matheus-Portainer" height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/portainer.svg" />
+          </a>
         </td>
         <td>
             <a href="https://github.com/matheusschreiber" target="_blank">
@@ -193,6 +212,13 @@
         <td>
             <a href="https://github.com/matheusschreiber" target="_blank">
                 <img align="center" alt="Matheus-Tensorflow" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+            </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/matheusschreiber" target="_blank">
+              <img align="center" alt="Matheus-Jupyter" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
             </a>
         </td>
       </tr>
