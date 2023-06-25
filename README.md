@@ -67,7 +67,7 @@
         </td>
         <td>
             <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-NPM" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+                <img align="center" alt="Matheus-Kotlin" height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
             </a>
         </td>
       </tr>
