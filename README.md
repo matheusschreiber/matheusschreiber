@@ -1,12 +1,10 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=matheusschreiber.matheusschreiber&left_color=red&right_color=green&left_text=Profile%20views) 
+![visitor badge](https://visitor-badge.imlete.cn/?id=matheusschreiber.matheusschreiber&label=Profile%20views)
 
 ## Hi 👋 My name is Matheus and i'm a junior developer.
 
-- 🧑🏻 I'm currently 21 years old
+- 🧑🏻 I'm currently 22 years old
 - 🧑🏻‍💻 Coursing Computer Engineering at [UFES](https://www.ufes.br/)
-- 🧑🏻‍🏫 Member of [PET](https://pet.inf.ufes.br/) (extension program)
-- 🧑🏻‍🔧 Experience on building websites [here is my portfolio](https://matheus-schreiber.com.br/)
-- 👥 Developing everyday teamwork
+- 🧑🏻‍🔧 Experience on Fullstack web development. [Here is my portfolio](https://matheus-schreiber.com.br/)
 
 ## My github stats
 <div align="center">
@@ -25,74 +23,50 @@
       <table>
       <tr>
         <td>
-            <a href="../../../?tab=repositories&q=&type=&language=javascript&sort=" target="_blank">
-                <img align="center" alt="Matheus-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-            </a>
+            <img align="center" alt="Matheus-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
         </td>
         <td>
-            <a href="../../../?tab=repositories&q=&type=&language=typescript&sort=" target="_blank">
-                <img align="center" alt="Matheus-Ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-            </a>
+            <img align="center" alt="Matheus-Ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
         </td>
       </tr>
       <tr>
         <td>
-            <a href="../../../?tab=repositories&q=&type=&language=html&sort=" target="_blank"> 
-                <img aligns="center" alt="Matheus-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-            </a>
+            <img aligns="center" alt="Matheus-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
         </td>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-            </a>
+            <img align="center" alt="Matheus-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
         </td>
       </tr>
       <tr>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-            </a>
+            <img align="center" alt="Matheus-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
         </td>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Vue" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-            </a>
+            <img align="center" alt="Matheus-Vue" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
         </td>
       </tr>
       <tr>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Nodejs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-            </a>
+            <img align="center" alt="Matheus-Nodejs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
         </td>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Kotlin" height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
-            </a>
+            <img align="center" alt="Matheus-Kotlin" height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
         </td>
       </tr>
       <tr>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Nextjs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-            </a>
+            <img align="center" alt="Matheus-Nextjs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
         </td>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Jest" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-            </a>
+            <img align="center" alt="Matheus-Jest" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
         </td>
       </tr>
       <tr>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-NestJS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-            </a>
+            <img align="center" alt="Matheus-NestJS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
         </td>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Vite" height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" />
-            </a>
+            <img align="center" alt="Matheus-Vite" height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" />
         </td>
       </tr>
     </table>
@@ -101,66 +75,49 @@
     <table>
       <tr>
         <td>
-            <a href="../../../?tab=repositories&q=&type=&language=python&sort=" target="_blank">
-                <img align="center" alt="Matheus-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-            </a>
+            <img align="center" alt="Matheus-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
         </td>
         <td>
-            <a href="../../../?tab=repositories&q=&type=&language=c&sort=" target="_blank">
-                <img align="center" alt="Matheus-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-            </a>
+            <img align="center" alt="Matheus-Django" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
         </td>
       </tr>
       <tr>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-PHP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-            </a>
+            <img align="center" alt="Matheus-PHP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
         </td>
         <td>
-            <a href="../../../?tab=repositories&q=&type=&language=java&sort=" target="_blank">
-                <img align="center" alt="Matheus-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-            </a>
+            <img align="center" alt="Matheus-Svelte" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg"/>
         </td>
       </tr>
       <tr>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-CPP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-            </a>
+            <img align="center" alt="Matheus-Htmx" height="50" width="40" src="https://plugins.jetbrains.com/files/20588/418328/icon/pluginIcon.svg"/>
+        </td>
+        <td>
+            <img align="center" alt="Matheus-DjangoRest" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
         </td>
       </tr>
     </table>
     <table>
       <tr>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-AfterEffects" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
-            </a>
+            <img align="center" alt="Matheus-AfterEffects" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
         </td>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Illustrator" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
-            </a>
+            <img align="center" alt="Matheus-Illustrator" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
         </td>
       </tr>
       <tr>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Photoshop" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-            </a>
+            <img align="center" alt="Matheus-Photoshop" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
         </td>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Figma" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-            </a>
+            <img align="center" alt="Matheus-Figma" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
         </td>
       </tr>
       <tr>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank"> 
-              <img align="center" alt="Matheus-Blender" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-            </a>
+            <img align="center" alt="Matheus-Blender" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
           </td>
       </tr>
     </table>
@@ -169,72 +126,47 @@
     <table>
       <tr>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Vscode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-            </a>
+            <img align="center" alt="Matheus-Vscode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
         </td>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Vim" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-            </a>
+            <img align="center" alt="Matheus-Vim" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
         </td>
       </tr>
       <tr>
         <td>
-          <a href="https://github.com/matheusschreiber" target="_blank">
-              <img align="center" alt="Matheus-Portainer" height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/portainer.svg" />
+            <img align="center" alt="Matheus-Portainer" height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/portainer.svg" />
           </a>
-        </td>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Docker" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-            </a>
+            <img align="center" alt="Matheus-Docker" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
         </td>
       </tr>
       <tr>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Fillezilla" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-            </a>
+            <img align="center" alt="Matheus-Fillezilla" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
         </td>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Mysql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-            </a>
+            <img align="center" alt="Matheus-Mysql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
         </td>
       </tr>
       <tr>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Postgresql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Tensorflow" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-            </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/matheusschreiber" target="_blank">
-              <img align="center" alt="Matheus-Jupyter" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-            </a>
+            <img align="center" alt="Matheus-Postgresql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
         </td>
       </tr>
     </table>
     <table>
       <tr>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-RaspberryPI" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-            </a>
+            <img align="center" alt="Matheus-Azure" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
         </td>
         <td>
-            <a href="https://github.com/matheusschreiber" target="_blank">
-                <img align="center" alt="Matheus-Ubuntu" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-            </a>
-        </td>
+            <img align="center" alt="Matheus-GoogleCloud" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+        </td>      
+      </tr>
+      <tr>
+        <td>
+            <img align="center" alt="Matheus-Aws" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+        </td> 
       </tr>
     </table>
 </table>
