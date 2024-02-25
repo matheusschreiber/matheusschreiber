@@ -109,13 +109,8 @@
       </tr>
       <tr>
         <td>
-            <img align="center" alt="Matheus-Photoshop" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-        </td>
-        <td>
             <img align="center" alt="Matheus-Figma" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
         </td>
-      </tr>
-      <tr>
         <td>
             <img align="center" alt="Matheus-Blender" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
           </td>
