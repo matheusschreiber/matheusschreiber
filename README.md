@@ -22,7 +22,9 @@
 
 ### 📊 GitHub Stats
 
-![Matheus's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=matheusschreiber&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=matheusschreiber&show_icons=true&theme=dark" alt="Matheus's GitHub stats" />
+</div>
 
 ### 🛠️ Tech Stack
 
