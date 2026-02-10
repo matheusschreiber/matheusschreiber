@@ -22,12 +22,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/matheusschreiber">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=matheusschreiber&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dracula"/> 
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusschreiber&layout=compact&langs_count=8&hide_border=true&theme=dracula" />
-  </a>
-</div>
+![Matheus's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=matheusschreiber&show_icons=true&theme=dark)
 
 ### 🛠️ Tech Stack
 
