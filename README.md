@@ -6,7 +6,7 @@
   
   **Software Developer | Full-Stack & Mobile | Cloud & DevOps**
   
-  I'm a developer with a passion for building scalable web and mobile applications. Currently based in Paris/Brazil, bridging the gap between Data Science and Distributed Systems.
+  I'm a developer driven by building scalable web applications and machine learning products, aiming to create intelligent systems that solve real-world problems.
 
 </div>
 
@@ -14,8 +14,8 @@
 
 - 🎓 **Double Degree Student:** Pursuing *Diplôme d'ingénieur* in **Data Science & Distributed Systems** at [Télécom Paris](https://www.telecom-paris.fr/) and **Computer Engineering** at [UFES](https://www.ufes.br/).
 - ☁️ **Certified:** AWS Cloud Practitioner.
-- 💻 **Stack:** Expert in Django, NextJS, Svelte, and Mobile Development (Kotlin/React Native).
-- 🚀 **Experience:** Former Full-Stack Developer at eMentor; Researcher in Deep Learning & Mobile Optimization.
+- 💻 **Stack:** Expert in Django, NextJS, Svelte, and Python ML libraries (Tensorflow/PyTorch).
+- 🚀 **Experience:** Former Full-Stack Developer at eMentor; Researcher in Deep Learning & Natural Language Processing.
 - 🌐 **Portfolio:** [matheus-schreiber.com.br](https://matheus-schreiber.com.br/)
 
 ---
@@ -48,6 +48,7 @@
   <img alt="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="SQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
   
   <br/>
 
